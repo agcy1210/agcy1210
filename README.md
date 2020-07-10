@@ -1,6 +1,8 @@
 <img src="https://github.com/agcy1210/agcy1210/blob/master/Hi.gif" alt="alt text" width="100" height="100" />
-[![Linkedin Badge](https://img.shields.io/badge/-AmanChaudhary-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/aman-chaudhary-agcy/)](https://www.linkedin.com/in/aman-chaudhary-agcy/)[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:agcy7320@gmail.com)](mailto:agcy7320@gmail.com)
----
+
+## Hi there 👋
+> Me agcy, aka Aman Chaudhary. 
+
 - 🔭 I’m currently working in Python
 - 🌱 I’m currently learning Deep Learning
 - 👯 I’m looking to collaborate on Machine and Deep Learning projects
