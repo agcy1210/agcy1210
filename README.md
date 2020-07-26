@@ -1,4 +1,11 @@
-<img src="https://github.com/agcy1210/agcy1210/blob/master/Hi.gif" alt="alt text" width="100" height="100" />
+# Hey there :wave:
+
+<img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world">
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/sagar-viradiya/count.svg" />
+</p>
 
 > Me agcy, aka Aman Chaudhary. 
 
